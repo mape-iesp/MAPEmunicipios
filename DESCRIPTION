@@ -1,0 +1,27 @@
+Package: MAPEmunicipios
+Title: Functions to Download and Use the MAPEmunicipios Dataset
+Version: 0.0.1
+Authors@R: c(
+    person("Bruno", "Schaefer", , "bruno.schaefer@iesp.uerj.br", role = c("aut"),
+           comment = c(ORCID = "0000-0002-5127-7240")),
+    person("Fernando", "Meireles", , "fernando.meireles@iesp.uerj.br", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-7027-2058")),
+    person("Carlos", "Freitas", , "carlosfreitas@iesp.uerj.br", role = c("aut"),
+           comment = c(ORCID = "0000-0002-2493-8154")),
+    person("Tomás", "Paixão Borges", , "tomasborges@iesp.uerj.br", role = c("aut"),
+           comment = c(ORCID = "0000-0002-5276-6636")),
+    person("Olga", "Caldas", , "olgasilva@iesp.uerj.br", role = c("aut")),
+    person("Luisa", "Barreto", , "luisafernandes@iesp.uerj.br", role = c("aut"),
+           comment = c(ORCID = "0009-0001-2488-5806")),
+    person("Frederico", "Gomes Filho", , "fredericofilho@iesp.uerj.br", role = c("aut"),
+           comment = c(ORCID = "0009-0004-2217-8077")),
+    person("Larissa", "Mendes", , "larissamendes@iesp.uerj.br", role = c("aut"),
+           comment = c(ORCID = "0009-0004-2217-8077"))
+ )
+Description: Provides a set of functions to download and use the MAPEmunicipios dataset.
+    The dataset contains detailed information of Brazilian municipalities, covering 
+    more than 451 variables across 31 original sources.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
