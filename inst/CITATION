@@ -1,0 +1,8 @@
+bibentry(
+  bibtype  = "misc",
+  title    = "MAPEmunicipios Dataset",
+  author   = "Bruno Schaefer, Fernando Meireles, Carlos Freitas, Tomás P Borges, Olga Caldas, Luisa B Fernandes, Frederico A A de Gomes Filho, and Larissa S Mendes",
+  publisher  = "OSF",
+  year     = 2024,
+  url      = "osf.io/3yka9"
+)
