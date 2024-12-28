@@ -24,3 +24,11 @@ You can install the development version of MAPEmunicipios from
 # install.packages("devtools")
 devtools::install_github("mape-iesp/MAPEmunicipios")
 ```
+
+## Citation
+
+To cite the `MAPEmunicipios` package in publications, please use:
+
+``` r
+citation("MAPEmunicipios")
+```
